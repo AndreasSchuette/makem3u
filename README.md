@@ -1,5 +1,5 @@
 # makem3u
-recursively create playlists
+recursively create playlists (Delphi/ Pascal SourceCode)
 
 makem3u recursively scans a certain directorytree and creates playlist-files. It is intended to use with a
 directory-structure similar to the following one
