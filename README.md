@@ -9,3 +9,8 @@ directory-structure similar to the following one
 You will have to specify the target-directory for playlist-files and for mp3-files to scan in the sourcecode.
 
 makem3u is provided without any warranty.
+
+# major update comming soon
+- gui
+- command-line parameters
+- not only a piece of code anymore
